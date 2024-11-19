@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076702539677",
+    "project_id": "bus-system-2502",
+    "storage_bucket": "bus-system-2502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076702539677:android:3c433329f2cfafe2200974",
+        "android_client_info": {
+          "package_name": "com.example.busadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCxUKt6sggqw-I6al8cgBoNRcHZGDRmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

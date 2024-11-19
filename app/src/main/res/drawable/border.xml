@@ -1,0 +1,13 @@
+<!-- res/drawable/border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Set the solid color to transparent to avoid filling the background -->
+    <solid android:color="@android:color/white" />
+
+    <!-- Define the border (stroke) color and thickness -->
+    <stroke
+        android:width="2dp"
+
+        android:color="@color/violet7" />
+
+    <corners android:radius="8dp" />
+</shape>

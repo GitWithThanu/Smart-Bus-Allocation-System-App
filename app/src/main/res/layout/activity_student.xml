@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/background_static"
+    tools:context=".StudentActivity"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="STUDENT DETAILS"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="28dp"
+        android:layout_height="wrap_content"></TextView>
+
+    <ImageView
+        android:layout_margin="20dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:background="@drawable/person_icon"
+        ></ImageView>
+
+    <TextView
+        android:id="@+id/textview_content"
+        android:layout_width="wrap_content"
+        android:background="@color/white"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="28dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"></TextView>
+    <TextView
+        android:id="@+id/timeTextView"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/white"
+        android:layout_height="wrap_content"
+        android:text="Selected Time: "
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/openTimePickerButton"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_height="wrap_content"
+        android:text="Open Time Picker" />
+
+    <Button
+        android:id="@+id/button_request"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Submit Your Request" />
+
+
+</LinearLayout>
