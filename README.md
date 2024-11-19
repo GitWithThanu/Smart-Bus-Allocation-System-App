@@ -1,11 +1,6 @@
 Smart College Bus Allocation System Using Big Data Analytics
 Welcome to the Bus Allocation System repository! This project aims to optimize bus routes and allocation based on student and bus station locations.
 This system leverages location and address data to map routes efficiently and improve transportation logistics for educational institutions.
-
-Table of Contents:
-		Project Overview
-		Datasets
-		Dependencies
 		
 Project Overview:
 The Bus Allocation System project is designed to optimize the routing of buses within Chennai, Tamil Nadu, India, based on student addresses and bus station locations. 
