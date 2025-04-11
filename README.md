@@ -40,7 +40,7 @@ You can download the latest version of Java from Oracle's official website.
 
 Setup Instructions:
 Clone the repository:
-git clone https://github.com/HarishNatarajS/Bus.git
+git clone https://github.com/GitWithThanu/Smart-Bus-Allocation-System-App
 cd busallocation
 Ensure that you have installed Python, Android Studio, and Java as described in the dependencies section.
 
